@@ -1,0 +1,1 @@
+"# SpringCoreAutowireDay6" 
